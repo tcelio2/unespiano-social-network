@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: unesp-service-forum
+  cloud:
+    config:
+      uri: http://localhost:8001
+  profiles:
+    active: dev
+
+

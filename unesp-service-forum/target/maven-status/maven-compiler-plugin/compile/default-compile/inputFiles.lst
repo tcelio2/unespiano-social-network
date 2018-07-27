@@ -1,0 +1,6 @@
+/home/hal9000/AWORKSPACE2/unesp-service-forum/src/main/java/br/com/unesp/forum/usuario/model/Usuario.java
+/home/hal9000/AWORKSPACE2/unesp-service-forum/src/main/java/br/com/unesp/forum/usuario/repository/UsuarioSpecification.java
+/home/hal9000/AWORKSPACE2/unesp-service-forum/src/main/java/br/com/unesp/forum/usuario/controller/UsuarioController.java
+/home/hal9000/AWORKSPACE2/unesp-service-forum/src/main/java/br/com/unesp/forum/usuario/repository/UsuarioRepository.java
+/home/hal9000/AWORKSPACE2/unesp-service-forum/src/main/java/br/com/unesp/forum/ApplicationConfig.java
+/home/hal9000/AWORKSPACE2/unesp-service-forum/src/main/java/br/com/unesp/forum/usuario/service/UsuarioService.java

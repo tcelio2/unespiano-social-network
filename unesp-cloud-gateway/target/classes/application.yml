@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: zull-gateway
+
+zuul:
+  routes:
+    forum:
+       url: http://localhost:9094
+    posts:
+       url: http://localhost:9093
+       
+ribbon:
+  eureka:
+    enabled: false
+
+server:
+    port: 8080
+    
+    

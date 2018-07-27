@@ -1,0 +1,7 @@
+br/com/unesp/forum/ApplicationConfig.class
+br/com/unesp/forum/usuario/repository/UsuarioSpecification.class
+br/com/unesp/forum/usuario/repository/UsuarioRepository.class
+br/com/unesp/forum/usuario/model/Usuario.class
+br/com/unesp/forum/usuario/controller/UsuarioController.class
+br/com/unesp/forum/usuario/model/Usuario$UsuarioBuilder.class
+br/com/unesp/forum/usuario/service/UsuarioService.class

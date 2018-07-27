@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: git@github.com:tcelio2/ConfigData.git
+server:
+  port: 8001
+  
